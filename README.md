@@ -1,3 +1,30 @@
+               ..####.. .....
+             .#''   `   ,  kkkk:
+           .#'             `\ jjk::.
+          #'   ...,######..    `jjjkk:
+         #   ####@@@@@@@@@@@...     .kk
+         # .##@@@@@@@@@@@@@@@#.       #'
+         ._*""*_@@@@##""""#@@#        .j 
+       ,!#,##### |"";###"####;###.   .;
+        !#,#"#..,;##|;#.::.,::###,   ::          
+        `#;#########;###########. .  ;
+          ###@#*#*"*##@@@@@@@@@@####";
+          ###@#****##@@@@@@@@@@###"##;
+          ### #####*#; ##@@@@#######"
+          ;##,##***###,#######j""#'
+           ;####;##@@@######*,##j
+           `.*:###;#### ' ' ,###:        
+             ',.      -...######:k                    
+                ##########@@@@* ::kk.
+                *####@@@@@@@*.::;::::';;..
+             ,   ##@@@@@@#.:::::::   ::,;;;:..
+           ,,:    #@@@@@#:::::::: ::::':':::':   
+        .: jj :   :@@##:::::::;'.: : :::::::::
+    ..::::jj:,: .:ij:.       :::'   ':::::::::
+ .;:::::::j '::::::jj:'    .::::   :::::::::::
+;;:::::::: ::::: ::::    :::::::::::::::';::::
+
+
 # 💫 About Me:
 🔭 I'm currently working on building full-stack web applications and exploring AI-powered features.<br><br>👯 I'm looking to collaborate on open-source projects, web development, and innovative ideas.<br><br>🤝 I'm looking for help with problem-solving, backend development, and writing better code.<br><br>🌱 I'm currently learning React.js, Node.js, Express.js, MongoDB, and Java for DSA.<br><br>💬 Ask me about JavaScript, React.js, frontend development, and my web projects.<br><br>⚡ Fun fact: I'm a CSE student who enjoys turning ideas into projects and learning something new with every bug I fix. 🚀
 
